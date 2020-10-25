@@ -1,4 +1,4 @@
-Current master's student at 'Statistics and Machine learning' with a bachelor's degree from 'Statistics and Data Analysis' both at Linköping University. Works alongside the studies as an analyst for Webropol Sverige AB. Have during the studies also worked as a lab assistant in 'Programming in R' and was involved in section work as a class representative and chairman. 
+Current master's student at 'Statistics and Machine learning' with a bachelor's degree from 'Statistics and Data Analysis' both at Linköping University. Works alongside the studies as an analyst for Webropol Sverige AB.
 
 ### Get in contact with me:
 
