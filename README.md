@@ -8,7 +8,7 @@ Current master's student at 'Statistics and Machine learning' with a bachelor's 
 
 [<img align="left" alt="codeSTACKr | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
-[gmail]: sidde94@gmail.com
+[gmail]: mailto:sidde94@gmail.com
 
 <!--
 # Languges and tools:
