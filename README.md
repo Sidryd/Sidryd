@@ -1,3 +1,5 @@
+## Welcome to my GitHub!
+
 Current master's student at 'Statistics and Machine learning' with a bachelor's degree from 'Statistics and Data Analysis' both at Linköping University. Works alongside the studies as an analyst for Webropol Sverige AB.
 
 ### Get in contact with me:
